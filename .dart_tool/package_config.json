@@ -134,6 +134,18 @@
       "languageVersion": "2.1"
     },
     {
+      "name": "http",
+      "rootUri": "file:///C:/FlutterDevelopment/flutter/.pub-cache/hosted/pub.dartlang.org/http-0.12.2",
+      "packageUri": "lib/",
+      "languageVersion": "2.4"
+    },
+    {
+      "name": "http_parser",
+      "rootUri": "file:///C:/FlutterDevelopment/flutter/.pub-cache/hosted/pub.dartlang.org/http_parser-3.1.4",
+      "packageUri": "lib/",
+      "languageVersion": "2.3"
+    },
+    {
       "name": "integration_test",
       "rootUri": "file:///C:/FlutterDevelopment/flutter/packages/integration_test",
       "packageUri": "lib/",
@@ -344,7 +356,7 @@
       "languageVersion": "2.7"
     }
   ],
-  "generated": "2021-01-26T14:12:15.497424Z",
+  "generated": "2021-01-27T09:25:44.193566Z",
   "generator": "pub",
   "generatorVersion": "2.12.0-224.0.dev"
 }

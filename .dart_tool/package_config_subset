@@ -70,6 +70,14 @@ glob
 2.1
 file:///C:/FlutterDevelopment/flutter/.pub-cache/hosted/pub.dartlang.org/glob-1.2.0/
 file:///C:/FlutterDevelopment/flutter/.pub-cache/hosted/pub.dartlang.org/glob-1.2.0/lib/
+http
+2.4
+file:///C:/FlutterDevelopment/flutter/.pub-cache/hosted/pub.dartlang.org/http-0.12.2/
+file:///C:/FlutterDevelopment/flutter/.pub-cache/hosted/pub.dartlang.org/http-0.12.2/lib/
+http_parser
+2.3
+file:///C:/FlutterDevelopment/flutter/.pub-cache/hosted/pub.dartlang.org/http_parser-3.1.4/
+file:///C:/FlutterDevelopment/flutter/.pub-cache/hosted/pub.dartlang.org/http_parser-3.1.4/lib/
 io
 2.0
 file:///C:/FlutterDevelopment/flutter/.pub-cache/hosted/pub.dartlang.org/io-0.3.4/
