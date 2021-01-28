@@ -22,7 +22,7 @@ class GitRequest {
   String blog;
   String location;
   String email;
-  String hireable;
+  bool hireable;
   String bio;
   String twitterUsername;
   int publicRepos;
